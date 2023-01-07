@@ -1,0 +1,71 @@
+
+#Phantom{
+    border: 2px red solid;
+    float: left;
+    color: red;
+    text-shadow: 2px 2px 4px black;
+    background-color: transparent;
+
+}
+#Battle{
+    border: 2px lightgreen solid;
+    float: left;
+    color: lightgreen;
+    text-shadow: 2px 2px 4px black;
+    background-color: transparent;
+}
+#Stardust{
+    border: 2px dodgerblue solid;
+    float: left;
+    color: dodgerblue;
+    text-shadow: 2px 2px 4px black;
+    background-color: transparent;
+
+}
+#Diamond{
+    border: 2px blueviolet solid;
+    float: right;
+    color: blueviolet;
+    text-shadow: 0,8px 0,8px 2px black;
+    background-color: transparent;
+    
+}
+#Vento{
+    border: 2px darkorange solid;
+    float: right;
+    color: darkorange;
+    text-shadow: 2px 2px 4px black;
+    background-color: transparent;
+
+}
+#Stone{
+    border: 2px cadetblue solid;
+    float: right;
+    color: cadetblue;
+    text-shadow: 0,8px 0,8px 2px black;
+    background-color: transparent;
+
+
+}
+body{
+    background-image: url(https://jojo-news.com/wp-content/uploads/2022/04/JoJoAnime10thAnniversaryProject-1024x576.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-size: auto;
+    background-attachment: fixed;
+}
+h1{
+    color: deeppink;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+
+}
+p{
+ font-size: larger;
+
+}
+span{
+    color: aliceblue;
+    font-size: bolder;
+    background-color: black;
+}

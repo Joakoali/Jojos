@@ -1,0 +1,39 @@
+#Phantom{
+    border: 2px red solid;
+    float: left;
+    color: red;
+    background-color: transparent;
+
+}
+body{
+    background-image: url(https://jojo-news.com/wp-content/uploads/2022/04/JoJoAnime10thAnniversaryProject-1024x576.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-size: auto;
+    background-attachment: fixed;
+}
+h1{
+    color: deeppink;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+
+}
+p{
+ font-size: larger;
+
+}
+span{
+    color: aliceblue;
+    font-size: bolder;
+    background-color: black;
+}
+
+.trans{
+    
+    background-color: darkgray;
+    filter:alpha(opacity=20);
+    -moz-opacity:0.2;
+    opacity: 0.6;
+
+}
+

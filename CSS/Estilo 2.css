@@ -1,0 +1,38 @@
+p{
+    color: darkred;
+    font: message-box;
+}
+h1 {
+    font-size: medium;
+    font-weight: bolder;
+    color: brown;
+    margin: 20px;
+    border: 3px solid darkred;
+    padding: 5px;
+    text-align: center;
+
+}
+section{
+    width: 300px;
+    border: 10px black solid;
+    padding: 40px;
+    margin: 20px;
+    float: left;
+ }
+ #Section1 {
+    width: 300px;
+    border: 10px orange solid;
+    padding: 40px;
+    margin: 20px;
+
+}
+h2{
+    color: skyblue;
+    font: bold;
+}
+.Estilo1{
+    color: aqua;
+}
+.Estilo2{
+    color: lightsalmon;
+}
